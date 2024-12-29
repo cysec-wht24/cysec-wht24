@@ -3,7 +3,7 @@
 
 **I am a passionate CyberSec nerd a Bug Bounty Hunter and a RedHat Hacker sometimes
 
-About Me:
+## About Me:
 
 - 🔭 I’m currently working on BUg Bounty
 - 🌱 I’m currently learning different tools and methodology
