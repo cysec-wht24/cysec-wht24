@@ -8,7 +8,6 @@ I am a passionate CyberSec nerd a Bug Bounty Hunter and an overthinker....
 - 🔭 I’m currently working on Bug Bounty
 - 🌱 I’m currently learning different tools and methodology
 - 👯 I’m looking to collaborate on security related Projects
-- 🔓 My favourate song is by the one and only Queen  – *I Want to Break Free*
   
 ### Languages
 
